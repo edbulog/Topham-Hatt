@@ -85,6 +85,7 @@ def main():
     print "Solving"
     model.solve()
     print_model(model)
+    print "Ed was here"
 
 if __name__ == '__main__':
     main()
